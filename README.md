@@ -29,12 +29,6 @@ Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos
     git clone https://github.com/tu-repositorio/DedOSwitch.git
     ```
 
-2. Navega al commit específico:
-
-    ```bash
-    git show --pretty="" --name-only 1e27293
-    ```
-
 3. Configura el websocket:
     - Crea una cuenta y un nuevo websocket en [PieSocket](https://piehost.com/piesocket).
     - Reemplaza la URL del websocket en el código:
