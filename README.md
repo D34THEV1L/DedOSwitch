@@ -11,7 +11,7 @@ Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos
 - Gestión de múltiples cuentas de Roblox en Android.
 - Interfaz intuitiva y fácil de usar.
 - Compatibilidad con websockets para comunicación en tiempo real.
-- Desarrollado en Kotlin y Java.
+- Desarrollado en Java.
 
 ## Instalación
 
