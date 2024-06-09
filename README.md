@@ -1,6 +1,6 @@
 # DedOSwitch
 
-![DedOSwitch Icon](https://ibb.co/jk4Q99z)
+[![icons8-roblox-studio-100.png](https://i.postimg.cc/YS6jPkbt/icons8-roblox-studio-100.png)](https://postimg.cc/3ywKyssq)
 
 Breve descripción del proyecto.
 
