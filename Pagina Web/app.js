@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const wsUrl = 'wss://free.blr2.piesocket.com/v3/1?api_key=sjBvbMQvr2A15szaGTBfhNbYCXlKO4kXagvTT0rg&notify_self=1';
+    const wsUrl = 'ws url here';
     let ws = new WebSocket(wsUrl);
     let autoVerificationInterval = null;
     let scriptExecutionTimeout = null;
