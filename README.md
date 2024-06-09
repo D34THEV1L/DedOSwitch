@@ -8,13 +8,19 @@ Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos
 
 ...
 
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [Instalación 🚀](#instalación)
+- [Uso 🛠️](#uso)
 
+
+...
 
 ## Instalacion
+
+Este repositorio cuenta con 2 programas, el administrador web (html) y el cliente movil (apk) el cual debe ser compilado mediante android studio o similares pero primero vayamos a la creacion del websocket
+
+Crea una cuenta y crea un nuevo websocket, entonces copia la url y remplaza el codigo de las variables que contiene 
+
+https://piehost.com/piesocket
 
 
 
