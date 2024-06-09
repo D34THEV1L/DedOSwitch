@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Info</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
+    <script src="https://unpkg.com/fengari-web/dist/fengari-web.js"></script>
+</head>
+<body>
+    <div class="toasts"></div>
+    <div class="container">
+        <h1>DedOSwitch</h1>
+        <p class="under-tittle">Una nueva solución para Administrar tus cuentas de roblox en android</p>
+        <fieldset class="section" id="userContainer">
+            <legend>Usuarios</legend>
+            <!-- Aquí se agregarán los usuarios dinámicamente -->
+        </fieldset>
+        <fieldset class="section" id="menuContainer">
+            <legend>Opciones</legend>
+            <button class="button--menu" id="addUserBtn">Agregar usuario</button>
+            <button class="button--menu" id="checkUsersBtn">Verificar usuarios</button>
+            <label class="checkbox--label">
+                <span class="checkbox--text">Auto Verificar (Cada 5 minutos)</span>
+                <input class="checkbox" type="checkbox">
+            </label>
+        </fieldset>
+        <fieldset class="section" id="logContainer">
+            <legend>Logs</legend>
+            <div id="log"></div>
+            <div class="command-section">
+                <input type="text" id="commandInput" placeholder="Escribe un comando">
+                <button id="sendCommandBtn">Enviar Comando</button>
+                <button id="clearLogBtn">Borrar Logs</button>
+            </div>
+        </fieldset>
+        <fieldset class="section" id="scriptConsoleContainer">
+            <legend>Script Console</legend>
+            <div id="scriptConsole"></div>
+            <div class="command-section">
+                <button id="clearConsoleBtn">Clear Console</button>
+            </div>
+        </fieldset>
+        <fieldset class="section" id="scriptContainer">
+            <legend>Editor de Scripts</legend>
+            <textarea id="scriptEditor" name="scriptEditor"></textarea>
+            <div class="script-controls">
+                <button id="runScriptBtn">Correr Script</button>
+                <button id="stopScriptBtn">Detener Script</button>
+                <div id="scriptStatus">Estado: Inactivo</div>
+            </div>
+        </fieldset>
+    </div>
+
+    <div id="addUserModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2>Añadir Usuario</h2>
+            <input type="text" id="usernameInput" placeholder="Enter username">
+            <button id="confirmAddUserBtn">Añadir</button>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/lua/lua.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
