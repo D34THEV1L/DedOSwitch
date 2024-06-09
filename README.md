@@ -6,19 +6,36 @@
 
 Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos. Haré todo lo posible por resolverlos y mejorar la aplicación.
 
+# Índice
+
+- DedOSwitch 🎮
+  - Manejador de Cuentas Alternativas para Roblox Android Manager
+  - Características 🚀
+  - Cómo usarlo 📖
+  - Contribuciones 🤝
+  - Agradecimientos 💖
+
+# DedOSwitch 🎮
+
+## Manejador de Cuentas Alternativas para Roblox Android Manager
+
+...
+
 ### Características 🚀
 
-* (Aquí puedes listar las características de tu aplicación)
+...
 
 ### Cómo usarlo 📖
 
-* (Aquí puedes explicar cómo usar tu aplicación)
+...
 
 ### Contribuciones 🤝
 
-¡Las contribuciones son bienvenidas! Si encuentras un error, por favor, informa sobre él. Si tienes alguna sugerencia o mejora, no dudes en compartirla.
+...
 
 ### Agradecimientos 💖
 
-¡Gracias por su apoyo y por usar DedOSwitch!
+...
+
+
 
