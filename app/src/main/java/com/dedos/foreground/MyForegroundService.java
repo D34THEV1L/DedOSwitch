@@ -36,7 +36,7 @@ public class MyForegroundService extends Service {
 
     private static final String TAG = "MyForegroundService";
     private static final String CHANNEL_ID = "ForegroundServiceChannel";
-    private static final String WS_URL = "wss://free.blr2.piesocket.com/v3/1?api_key=sjBvbMQvr2A15szaGTBfhNbYCXlKO4kXagvTT0rg&notify_self=1";
+    private static final String WS_URL = "put here ur ws URL";
     private static final int NOTIFICATION_ID = 1001;
 
     private Handler handler;
