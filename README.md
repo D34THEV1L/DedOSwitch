@@ -6,6 +6,12 @@
 
 Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos. Haré todo lo posible por resolverlos y mejorar la aplicación.
 
+## Aplicacion web
+![image](https://github.com/D34THEV1L/DedOSwitch/assets/87221905/8f932124-6882-42b5-a926-d4d8140200e6)
+## Aplicacion Movil
+![image](https://github.com/D34THEV1L/DedOSwitch/assets/87221905/0165eae3-6b74-41b8-a191-d4f0d67b0688)
+
+
 ## Características
 
 - Gestión de múltiples cuentas de Roblox en Android.
