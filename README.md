@@ -26,6 +26,7 @@ Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos
 - [Android Studio](https://developer.android.com/studio) para compilar la aplicación móvil.
 - Navegador web para la aplicación web (HTML, JavaScript).
 - Cuenta en [PieSocket](https://piehost.com/piesocket) para crear un websocket.
+- Emulador con Root, el programa funciona en MUmu player 12, no doy soporte a otros emuladores pero puede ser que funcione en todos.
 
 ### Pasos
 
