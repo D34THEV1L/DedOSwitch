@@ -43,7 +43,7 @@ Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos
       const wsUrl = 'pon aquí tu URL de websocket';
       ```
 
-4. Compila e instala la aplicación móvil utilizando Android Studio o una herramienta similar. ¿Porque no subes las aplicacion compilada tu? Es una muy buena pregunt apero debido a que tu no quieres estar teniendo que poner la URL del websocket emulador por emulador, asi nomas lo cambias en la variable y asi ya funciona de una.
+4. Compila e instala la aplicación móvil utilizando Android Studio o una herramienta similar. ¿Porque no subes las aplicacion compilada tu? Es una muy buena pregunta apero debido a que tu no quieres estar teniendo que poner la URL del websocket emulador por emulador, asi nomas lo cambias en la variable y asi ya funciona de una.
 
 5. Para la aplicación web, abre `index.html`. Si lo haces localmente, necesitarás un desbloqueador de CORS para hacer solicitudes a la API de imágenes del avatar en Roblox. Puedes usar esta extensión para Chrome: [CORS Unblock](https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino).
 
