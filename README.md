@@ -2,6 +2,8 @@
 
 ## Manejador de Cuentas Alternativas para Roblox Android Manager
 
+**Version: 1.0**
+
 ¡Hola a todos! Estoy muy emocionado de presentarles la aplicación **DedOSwitch**. He estado trabajando en ella durante unos días y, aunque soy relativamente nuevo en este campo y gran parte del código es pegado, reciclado o generado, he dedicado mucho tiempo a investigar, resolver problemas y aprender sobre diferentes tecnologías como **Kotlin** y **Java**.
 
 Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos. Haré todo lo posible por resolverlos y mejorar la aplicación.
@@ -11,6 +13,13 @@ Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos
 ## Aplicacion Movil
 ![image](https://github.com/D34THEV1L/DedOSwitch/assets/87221905/0165eae3-6b74-41b8-a191-d4f0d67b0688)
 
+
+## Actualizaciones Futuras:
+- Añadir soporte a exploits para poder ejecutar scripts desde la app web
+- Añadir botones globales para unir a todas las cuentas de una vez
+- Añadir Boton para cerrar roblox
+
+Nose si estas actualizaciones se vayan a cunplir ya que este programa fue un reto personal asi que conforme me vaya motivando lo ire actualizando, igual son cosas muy pequeñas.
 
 ## Características
 
