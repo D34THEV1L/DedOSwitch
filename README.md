@@ -59,6 +59,18 @@ Espero que valoren mi esfuerzo y, si encuentran errores, no duden en informarlos
 
 Adjuntaré videos de uso y los videos que utilicé para la creación de esta aplicación en el futuro cercano.
 
+Comandos Root Basicos:
+https://github.com/fandreuz/TUI-ConsoleLauncher/wiki/Root-commands
+
+Foreground Service en Java:
+https://www.youtube.com/watch?v=jFE9FZVykdI&t=5s
+
+Html css:
+https://www.youtube.com/watch?v=ELSm-G201Ls
+
+Si desea agregar un comando root le recomiendo pedirle ayuda a una inteligencia artificial de que comando puede usar para lograr su cometido o buscar una documentacion de comandos en Unix.
+
+
 ---
 
 ¡Gracias por usar DedOSwitch! Si tienes alguna pregunta o encuentras algún error, no dudes en contactarme. Tu feedback es muy valioso para mejorar esta aplicación.
